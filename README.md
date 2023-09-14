@@ -1,11 +1,8 @@
 # flutter_listview_search_with_textfield
 
 A new Flutter project.
-<p floa![Uploading output1.gif…]()
-t="left">
-  
-  <img src="[Output/output.gif](https://github.com/aoffahad/flutter_listview_search_with_textfield/blob/main/Output/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20-%202023-09-14%20at%2014.58.46.gif)" width="400" />
-</p>
+<img src ="https://github.com/aoffahad/flutter_listview_search_with_textfield/blob/main/Output/Output1.png" width="200" height ="300" alt="Output"/>
+<img src ="https://github.com/aoffahad/flutter_listview_search_with_textfield/blob/main/Output/Output2.png" width="200" height ="300" alt="Output"/>
 
 ## Getting Started
 
